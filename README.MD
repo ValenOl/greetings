@@ -41,4 +41,4 @@ func main() {
 
 ```
 
-
+Este ejemplo importa el paquete github.com/ValenOl/greetings y llama a la funcion de hello.
